@@ -1,0 +1,47 @@
+<?php
+	$lang = array (
+		"about" => "À propos",
+		"aboutCaption" => "Développé par Vijesh Tharmabala  à l'Université de Aston, <br> My Uni Guide est un guichet unique pour donner aux jeunes <br> individus des liens servant à développer des compétences <br> pratiques à la vie quotidienne. <br><br> Les partenaires ont été sélectionnés soigneusement pour <br> vous aider à trouver les informations dont vous avez <br> besoin pour vous améliorer. <br><br> Nous contacter - myuniguide2020@gmail.com",
+		"aboutQuestion" => "Qui Sommes-Nous?",
+		"bills" => "Factures",
+		"billh1" => "Trouvez quelles factures vous pourriez avoir besoin?",
+		"carousel-caption" => "Améliore ton quotidien avec nous",
+		"click4fun" => "Cliquez pour le fun",
+		"develop" => "PROGRESSE",
+		"developCaption" => "Progressez et approfondissez les connaissances que vous avez acquis.",
+		"exploreNow" => "Explorez Maintenant",
+		"food" => "Alimentation",
+		"foodh1" => "Trouvez des liens utiles pour vous aider à cuisiner.",
+		"finance" => "Finance",
+		"financeh1" => "Apprenez à tenir un budget.",
+		"grow" => "EVOLUE",
+		"growCaption" => "Utilisez les compétences fraîchement acquis pour fleurir.",
+		"home" => "Accueil",
+		"lang_en" => "Anglais",
+		"lang_fr" => "Français",
+		"language" => "Langage",
+		"launchWebsite" => "Accéder Au Site",
+		"learn" => "APPREND",
+		"learnCaption" => "Assimilez des connaissances et des habiletés essentielles dans divers domaines.",
+		"popularPartners" => "Nos Partenaires Populaires",
+		"question" => "Quel est notre objectif?",
+		"questionAnswer" => "Est de vous fournir les outils nécessaires pour non pas seulement réussir dans les études, mais également dans la vie quotidienne. Trouvez les partenaires qu'on a soigneusement choisis pour vous aider.",
+		"shopping" => "Mode",
+		"support" => "Assistance",
+
+		/*Partner Captions*/
+		"bbcGoodCaption" => "Nous sommes la marque alimentaire numéro un du Royaume-Uni. Que vous recherchiez des recettes saines et des guides, des projets familiaux et des menus, les dernières critiques de gadgets, inspiration de voyage foodie ou juste la recette parfaite pour un dîner ce soir, nous sommes là pour vous aider.",
+		"mseCaption" => "Il y a beaucoup de choses à penser quand vous êtes acceptez à l'université - où est-ce que vous allez habitez, quels modules choisir - mais gérer votre budget doit être votre priorité absolue.",
+		"OVOCaption" => "Soyons honnêtes: payer ses propres factures d’énergie n’est pas ce qu’il y a de plus glamour en commençant l’université. Donc dans ce guide, nous allons garder les choses simples.",
+		"splitTheBillsCaption" => "Devenir étudiant est le début pour la plupart des gens à vivre loin de chez eux et à organiser les frais de subsistance. Il y a plusieurs types de factures que vous pourriez devoir payer, ce qui peut être éprouvant. Utilisez ce guide pour savoir exactement quelles factures vous devez régler, et comment.", 
+		"studentbeansCaption" => "Premier réseau de fidélisation des étudiants au monde. Nous sommes une entreprise de technologie de marketing qui aide les marques et les services à gérer leurs propres programmes de réduction et de fidélisation des étudiants.",
+		"studentBookCaption" => "Le Student Book of Food est une application qui vous montrera une recette de base, avec seulement quelques ingrédients, et puis des suppléments à ajouter ou à retirer pour préparer le repas exactement comme vous le voulez, même si vous n’avez jamais cuisiné auparavant.",
+		"studentFoodCaption" => "Le Student Food Project a un objectif d’aider à informer les étudiants sur la façon de cuisiner leur propre repas pendant leur séjour à l’Université. Nous fournissons des recettes et des ressources qui facilitent la préparation d’aliments bon marché, rapide, sain et simple.",
+		"theScholarHub" => "Avec votre toute nouvelle indépendance à l’université vient pléthore de responsabilités, certains plus fastidieux que d’autres. Une des plus importantes, cependant, est de régler les factures des services publics.",
+		"tmasCaption" => "C'est important de savoir gérer son argent en tant qu'étudiant. Nous avons compiler une liste de choses à faire pour aidez à économiser le plus d'argent possible.",
+		"totumCaption" => "La carte de réduction et application étudiante numéro 1 au Royaume-Uni! L’adhésion ouvre un monde de réduction brillant pour étudiants, des offres et des bons sur vos biens essentiels de tous les jours, l’équipement indispensable et les articles de luxe.",
+		"unidaysCaption" => "Les étudiants économisent avec UNiDAYS. Fais des économies tout en te faisant plaisir sur tes marques préférées!",
+		"whichCaption" => "Prenez en main vos finances à l’université. Obtenez des réductions brillantes afin de trouvez un hébergement rentable. Visitez-nous pour économiser votre argent."
+
+	); 
+?>
